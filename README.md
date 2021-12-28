@@ -1,2 +1,6 @@
 # BingoWallet
-App che tiene il conto del saldo per i giochi come la Tombola e calcolatore dei montepremi per Tombola e Mercante in Fiera integrato
+Stanco di dover contare ogni volta i soldi disponibili per giocare a Tombola?
+
+Usa quest'app per tenere traccia del tuo saldo per i giochi!
+
+Inoltre ha integrato un calcolatore di montepremi per la Tombola e il Mercante in Fiera!
